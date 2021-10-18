@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(117, 80, 24);
+}
+img{
+    width: 200px;
+    height: 150px;
+    background-color: chocolate;
+}
+h1{
+    color: rgb(64, 190, 184);
+}
+p{
+    font-size: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+}
+ul li{
+color: rgb(229, 245, 7);
+}
+ul li a{
+    color: rgb(255, 251, 0);
+}
+ul{
+    list-style-type: square;
+}
+a{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
